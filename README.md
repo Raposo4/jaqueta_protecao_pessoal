@@ -94,3 +94,42 @@ Figura 3 - Costas do protótipo <br/>
 | LEDs | 4 |
 | Buzzer | 15 |
 | Botão | 0 |
+
+## Resultados
+### I Entregáveis previstos
+A confecção da peça final foi feita seguindo os mesmo passos iniciais da peça piloto, acrescentando na modelagem as mudanças que analisamos serem necessárias. Deste modo, foram acrescentados 10 cm no comprimento da jaqueta. Também aumentamos um pouco a largura do punho da jaqueta, para ficar um acabamento melhor. Optamos por adicionar uma faixa de tecido na largura das costas por cima para cobrir o zíper.
+
+Para adicionar os dispositivos tecnológicos na jaqueta, passamos a fiação necessária para eles funcionarem na altura do ombro na parte interna. O botão para acioná-los ficará embaixo da lapela do bolso esquerdo, por conta disso, a fiação descerá de modo interno do ombro até essa região, sendo coberto por uma faixa de tecido. Os LEDs serão dispostos de maneira exposta na parte traseira da jaqueta, na parte superior, a 7,5cm de distância da gola. O  bolso, que fica a 7cm das luzes, servirá para armazenar o programador, o GPS e também o buzzer. 
+
+<p align="center">
+Figura 4 - Tecido recortado conforme os moldes <br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/moldesdsdsds.jpg" width="300" /><br/>
+</p>
+
+
+<p align="center">
+Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/costas.jpg" width="300" /><br/>
+</p>
+
+Detalhe da localização dos LEDs dispostos separadamente abaixo da gola. A imagem também exibe o zíper coberto por uma lapela para armazenar o micro-controlador e o buzzer. 
+
+### Entregáveis não previstos
+
+A partir do protótipo já exibido, o grupo percebeu alguns pontos que poderiam ser melhorados e modificados. Em relação a modelagem da peça, foi necessário modificar a gola, que a partir da modelagem base ela acabou ficando muito pequena e não foi possível costura-la na jaqueta. Por conta de ser um teste, acrescentamos a quantidade necessária de tecido para ela ficar de modo certo no modelo da peça
+
+Uma outra questão foi o comprimento, que ficou um pouco mais curto do que queríamos. Em compensação, as mangas acabaram ficando com tecido a mais, e, por conta disso, ao costurar no corpo da jaqueta, resultou em franzidos na parte do ombro, como mostra a imagem
+
+O bolso no verso da jaqueta, que servirá para acomodar os dispositivos eletrônicos, nessa versão teste achamos que chamaria muita atenção, pois nas jaquetas convencionais não costuma ter um bolso nesta região. Então para não chamar, optamos por fazer alguma mudança, como já descrita no item anterior, que priorizasse a discrição dele. 
+
+### Montagem e Funcionamento do sistema
+A montagem do circuito se da de forma simples, apenas encaixando os componentes na pinagem certa o programa está pronto para rodar. Já o sistema *precisa* de acesso a alguma rede wi-fi(alterado direto no código) para funcionar, pois o programa inteiro fica em stand-by no aguardo que a conexão com a rede seja feita
+
+### Organização e Arquitetura
+
+<p align="center">
+Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/montagem.jpg" width="300" /><br/>
+</p>
+
+
