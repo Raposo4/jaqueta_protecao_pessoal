@@ -67,11 +67,13 @@ Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, pa
 
 <p align="center">
 Figura 2 - Frente do protótipo <br/>
-  <img src="../imgs/unnamed.png" width="300" /><br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" width="300" /><br/>
 </p>
 
-<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
-<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
+<p align="center">
+Figura 3 - Costas do protótipo <br/>
+  <img src="ttps://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" width="300" /><br/>
+</p>
 
 ### II Lista de matériais tecnológicos presentes na jaqueta
        
