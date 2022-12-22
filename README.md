@@ -30,7 +30,7 @@ situações adversas, como o assediador perceber a sua funcionalidade e agir de 
 Por possuir dispositivos que emitem luz forte e barulhos altos eles terão, caso eles sejam acionados, a função de assustar e distrair o 
 possível agressor, permitindo a fuga da vítima para um local seguro. Além disso, também contará com um dispositivo de compartilhamento de                   localização, que quando acionado algum contato de segurança pré estabelecido receberá um sinal da localização.  
 
-## Materiais e Métodos
+## 3. Materiais e Métodos
 
 ### I. Modelagem da Jaqueta
 - Para entendermos melhor como funcionaria o produto, optamos por primeiro fazer um protótipo da jaqueta em algodão cru,
@@ -86,7 +86,8 @@ Figura 3 - Costas do protótipo <br/>
 | N | Jumpers variados | -- |
 | 1 | Protoboard | -- |
 | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
-| X | Peças de X tecido | -- |
+| 1 | Peças de 130cm² de Brim Leve | -- |
+| 1 | Zíper de metal de 20 cm | -- |
         
 #### Conexões 
 | Componente | Pino da placa |
@@ -95,7 +96,7 @@ Figura 3 - Costas do protótipo <br/>
 | Buzzer | 15 |
 | Botão | 0 |
 
-## Resultados
+## 4. Resultados
 ### I Entregáveis previstos
 A confecção da peça final foi feita seguindo os mesmo passos iniciais da peça piloto, acrescentando na modelagem as mudanças que analisamos serem necessárias. Deste modo, foram acrescentados 10 cm no comprimento da jaqueta. Também aumentamos um pouco a largura do punho da jaqueta, para ficar um acabamento melhor. Optamos por adicionar uma faixa de tecido na largura das costas por cima para cobrir o zíper.
 
@@ -133,7 +134,7 @@ Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
 ### Organização e Arquitetura
 O dispositoivo da jaqueta se conecta a internet e a principal usabilidade disso é a conexão com a api [Whatabot](https://whatabot.net/index.html), a qual envia uma mensagem pré-definida é enviada a um número de Whatsapp previamente cadastrado. Para isso é utilizada uma requisição via http.
 
-## Discussão e Conclusão
+## 5. Discussão e Conclusão
 ### 1. Consequências lógicas dos resultados (resultados deduzidos);
 ### 2. Dificuldades que levaram às soluções colaterais
 ### 3. Especulações/questionamentos a partir dos resultados (resultados induzidos);
@@ -148,7 +149,7 @@ Houve também a possibilidade de implementação de um GPS ao sistema, mas não 
 
 Também pensamos na possibilidade de trazer  conceito central da jaqueta anti-assédio para outras peças de roupa, com o intuito de ampliar o nosso público, já que qualquer pessoa pode ser vítima de assédio. E também expandir nosso conceito, para a pessoa ter mais opções do uso de uma roupa que gera proteção, facilitando na inclusão dessas peças em seu estilo. 
 
-## Referências
+## 6. Referências
 HAJE, Lara. Comissão aprova regras para venda e uso do spray de pimenta e armas de eletrochoque para proteção pessoal. Agência Câmara de Notícias, 2021. Disponível em: https://www.camara.leg.br/noticias/806727-comissao-aprova-regras-para-venda-e-uso-do-spray-de-pimenta-e-armas-de-eletrochoque-para-protecao-pessoal/#:~:text=De%20acordo%20com%20o%20substitutivo,militar%20e%20comprovantes%20de%20resid%C3%AAncia
 
 Whatabot, 2022. Disponível em: https://whatabot.net/index.html#otherdetails
