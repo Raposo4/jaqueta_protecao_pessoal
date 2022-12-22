@@ -65,6 +65,11 @@ Nos moldes referentes às partes menores da jaqueta, a modelagem usada como refe
 
 Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, parte da frente e das costas, pode ser observado a seguir: 
 
+<p align="center">
+Figura 2 - Frente do protótipo <br/>
+  <img src="../imgs/unnamed.png" width="300" /><br/>
+</p>
+
 <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
 <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
 
