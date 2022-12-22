@@ -54,10 +54,10 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Os moldes não nomeados da imagem são a parte da frente da jaqueta, que é o primeiro da esquerda, e é necessário cortar duas vezes ele no tecido. O molde do meio é a parte das costas, esse adaptamos ele de modo que ficasse apenas um corte na hora de marcar no tecido e corta-ló. O molde da esquerda é o da manga, e por se tratar de uma jaqueta o punho é aberto e possui fecho de botão, então lembrar de marcar no molde esse detalhe. Também indiciar e cortar duas partes no tecido, já que as mangas de ambos braços são iguais.
 
     Nos moldes referentes às partes menores da jaqueta, a modelagem usada como referência já especifica qual parte é qual. Assim, só precisamos observar um jaqueta jeans de algum integrante do grupo para entender quantas vezes cada parte precisa ser cortada, com isso no final ficou: 
-        - Bolso: cortar duas vezes;
-        - Lapela: cortar quatro vezes;  
-        - Punho: cortar  duas vezes (cortado também na dobra do tecido); 
-        - Cos: cortar uma vezes;
-        - Gola: cortar duas vezes.
+        - Bolso: cortar duas vezes;   
+        - Lapela: cortar quatro vezes;    
+        - Punho: cortar  duas vezes (cortado também na dobra do tecido);   
+        - Cos: cortar uma vezes;  
+        - Gola: cortar duas vezes.  
 
 
