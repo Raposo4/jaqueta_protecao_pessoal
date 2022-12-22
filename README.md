@@ -40,9 +40,11 @@ modificação na peça.
 Para a criação deste protótipo da jaqueta anti-assédio nos baseamos na modelagem da jaqueta jeans tradicional de tamanho 42
 desenvolvida pela Marlene Mukai. E também, para auxílio nesta etapa utilizamos o livro 
 “Moldes Femininos: noções básicas" da autora Rosa Lúcia de Almeida Silva.  
-<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai." width="400"  height="500" />
 
-*Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.* 
+<p align="center">
+Figura 1 - Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai. <br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" width="300" /><br/>
+</p>
 
 Assim, primeiramente passamos para um papel kraft - conhecido também como papel pardo - os moldes de cada parte necessária para montar uma jaqueta. Essa etapa foi feita com auxílio de réguas de modelagens que possuem curvatura que se encaixam nos recortes do corpo, como na gola. Vale ressaltar também que esses moldes passados para o papel já são feitos com a margem de costura necessária, no nosso caso foi de 1,5 cm (menos na gola). Em seguida, marcamos cada molde em um tecido, por se tratar de uma peça piloto, usamos o algodão cru. Para a confecção da peça piloto optamos pelo uso de um tecido de brim em uma cor mais neutra. 
 
