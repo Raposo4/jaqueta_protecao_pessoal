@@ -19,15 +19,16 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Controlador é um componente eletrônico tecnológico desenvolvido para conectar projetos robóticos à Internet.
 
 ## 2. Objetivos
-- I. Objetivos específicos
-    - A jaqueta para defesa pessoal tem como objetivo trazer uma maior segurança para mulheres que frequentam locais perigosos, como ruas escuras, 
-      com pouco movimento ou qualquer outro ambiente que faça a mulher se sentir vulnerável a qualquer tipo de violência. 
-      
-      Por conta disso, desenvolvemos um wearable focando sempre na discrição, para não deixar evidente que é um item de segurança para não gerar 
-      situações adversas, como o assediador perceber a sua funcionalidade e agir de maneira mais bruta por conta disso.  
-      
-      Por possuir dispositivos que emitem luz forte e barulhos altos eles terão, caso eles sejam acionados, a função de assustar e distrair o 
-      possível agressor, permitindo a fuga da vítima para um local seguro. Além disso, também contará com um dispositivo de compartilhamento de                   localização, que quando acionado algum contato de segurança pré estabelecido receberá um sinal da localização.  
+
+### I. Objetivos específicos
+A jaqueta para defesa pessoal tem como objetivo trazer uma maior segurança para mulheres que frequentam locais perigosos, como ruas escuras, 
+com pouco movimento ou qualquer outro ambiente que faça a mulher se sentir vulnerável a qualquer tipo de violência. 
+
+Por conta disso, desenvolvemos um wearable focando sempre na discrição, para não deixar evidente que é um item de segurança para não gerar 
+situações adversas, como o assediador perceber a sua funcionalidade e agir de maneira mais bruta por conta disso.  
+
+Por possuir dispositivos que emitem luz forte e barulhos altos eles terão, caso eles sejam acionados, a função de assustar e distrair o 
+possível agressor, permitindo a fuga da vítima para um local seguro. Além disso, também contará com um dispositivo de compartilhamento de                   localização, que quando acionado algum contato de segurança pré estabelecido receberá um sinal da localização.  
 
 ## Materiais e Métodos
 
@@ -61,6 +62,7 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Gola: cortar duas vezes;
 
         Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, parte da frente e das costas, pode ser observado a seguir: 
+        
         <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
         <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
         
