@@ -39,4 +39,4 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
       Para a criação deste protótipo da jaqueta anti-assédio nos baseamos na modelagem da jaqueta jeans tradicional de tamanho 42
       desenvolvida pela Marlene Mukai. E também, para auxílio nesta etapa utilizamos o livro 
       “Moldes Femininos: noções básicas" da autora Rosa Lúcia de Almeida Silva.  
-      <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.">
+      <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai." width="400"  height="500"/>
