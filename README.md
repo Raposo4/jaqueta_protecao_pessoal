@@ -32,51 +32,56 @@ possível agressor, permitindo a fuga da vítima para um local seguro. Além dis
 
 ## Materiais e Métodos
 
-- I. Modelagem da Jaqueta
-    - Para entendermos melhor como funcionaria o produto, optamos por primeiro fazer um protótipo da jaqueta em algodão cru,
-      para analisarmos como e onde os dispositivos eletrônicos ficariam dispostos na jaqueta. E também avaliar se seria necessário fazer alguma 
-      modificação na peça.
-      
-      Para a criação deste protótipo da jaqueta anti-assédio nos baseamos na modelagem da jaqueta jeans tradicional de tamanho 42
-      desenvolvida pela Marlene Mukai. E também, para auxílio nesta etapa utilizamos o livro 
-      “Moldes Femininos: noções básicas" da autora Rosa Lúcia de Almeida Silva.  
-      <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai." width="400"  height="500" />
-      
-       *Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.* 
-      
-      Assim, primeiramente passamos para um papel kraft - conhecido também como papel pardo - os moldes de cada parte necessária para montar uma jaqueta. Essa etapa foi feita com auxílio de réguas de modelagens que possuem curvatura que se encaixam nos recortes do corpo, como na gola. Vale ressaltar também que esses moldes passados para o papel já são feitos com a margem de costura necessária, no nosso caso foi de 1,5 cm (menos na gola). Em seguida, marcamos cada molde em um tecido, por se tratar de uma peça piloto, usamos o algodão cru. Para a confecção da peça piloto optamos pelo uso de um tecido de brim em uma cor mais neutra. 
-      
-        Um outro ponto importante nessa etapa da modelagem é a organização dos moldes feitos no papel kraft. Então, depois de desenhar nele todas as partes da jaqueta, é de extrema importância especificar nos moldes: 
-        - Nomear a parte que ele representa;
-        - Especificar se é a parte da frente/dianteira ou se é a parte das costas;
-        - Atentar-se a molde que possui tanto parte das costas como da frente em um mesmo molde, como é o caso da manga. 
-        - Indicar onde fica a linha das costas ou  a linha da lateral do corpo;
-        - Indicar quantas vezes precisar recortar no tecido final. 
-        - Os moldes não nomeados da imagem são a parte da frente da jaqueta, que é o primeiro da esquerda, e é necessário cortar duas vezes ele no tecido. O molde do meio é a parte das costas, esse adaptamos ele de modo que ficasse apenas um corte na hora de marcar no tecido e corta-ló. O molde da esquerda é o da manga, e por se tratar de uma jaqueta o punho é aberto e possui fecho de botão, então lembrar de marcar no molde esse detalhe. Também indiciar e cortar duas partes no tecido, já que as mangas de ambos braços são iguais.
+### I. Modelagem da Jaqueta
+- Para entendermos melhor como funcionaria o produto, optamos por primeiro fazer um protótipo da jaqueta em algodão cru,
+para analisarmos como e onde os dispositivos eletrônicos ficariam dispostos na jaqueta. E também avaliar se seria necessário fazer alguma 
+modificação na peça.
 
-        Nos moldes referentes às partes menores da jaqueta, a modelagem usada como referência já especifica qual parte é qual. Assim, só precisamos observar um jaqueta jeans de algum integrante do grupo para entender quantas vezes cada parte precisa ser cortada, com isso no final ficou: 
-        - Bolso: cortar duas vezes;   
-        - Lapela: cortar quatro vezes;    
-        - Punho: cortar  duas vezes (cortado também na dobra do tecido);   
-        - Cos: cortar uma vezes;  
-        - Gola: cortar duas vezes;
+Para a criação deste protótipo da jaqueta anti-assédio nos baseamos na modelagem da jaqueta jeans tradicional de tamanho 42
+desenvolvida pela Marlene Mukai. E também, para auxílio nesta etapa utilizamos o livro 
+“Moldes Femininos: noções básicas" da autora Rosa Lúcia de Almeida Silva.  
+<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai." width="400"  height="500" />
 
-        Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, parte da frente e das costas, pode ser observado a seguir: 
-        
-        <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
-        <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
-        
-- II Lista de matériais tecnológicos presentes na jaqueta
+*Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.* 
+
+Assim, primeiramente passamos para um papel kraft - conhecido também como papel pardo - os moldes de cada parte necessária para montar uma jaqueta. Essa etapa foi feita com auxílio de réguas de modelagens que possuem curvatura que se encaixam nos recortes do corpo, como na gola. Vale ressaltar também que esses moldes passados para o papel já são feitos com a margem de costura necessária, no nosso caso foi de 1,5 cm (menos na gola). Em seguida, marcamos cada molde em um tecido, por se tratar de uma peça piloto, usamos o algodão cru. Para a confecção da peça piloto optamos pelo uso de um tecido de brim em uma cor mais neutra. 
+
+Um outro ponto importante nessa etapa da modelagem é a organização dos moldes feitos no papel kraft. Então, depois de desenhar nele todas as partes da jaqueta, é de extrema importância especificar nos moldes: 
+- Nomear a parte que ele representa;
+- Especificar se é a parte da frente/dianteira ou se é a parte das costas;
+- Atentar-se a molde que possui tanto parte das costas como da frente em um mesmo molde, como é o caso da manga. 
+- Indicar onde fica a linha das costas ou  a linha da lateral do corpo;
+- Indicar quantas vezes precisar recortar no tecido final. 
+- Os moldes não nomeados da imagem são a parte da frente da jaqueta, que é o primeiro da esquerda, e é necessário cortar duas vezes ele no tecido. O molde do meio é a parte das costas, esse adaptamos ele de modo que ficasse apenas um corte na hora de marcar no tecido e corta-ló. O molde da esquerda é o da manga, e por se tratar de uma jaqueta o punho é aberto e possui fecho de botão, então lembrar de marcar no molde esse detalhe. Também indiciar e cortar duas partes no tecido, já que as mangas de ambos braços são iguais.
+
+Nos moldes referentes às partes menores da jaqueta, a modelagem usada como referência já especifica qual parte é qual. Assim, só precisamos observar um jaqueta jeans de algum integrante do grupo para entender quantas vezes cada parte precisa ser cortada, com isso no final ficou: 
+- Bolso: cortar duas vezes;   
+- Lapela: cortar quatro vezes;    
+- Punho: cortar  duas vezes (cortado também na dobra do tecido);   
+- Cos: cortar uma vezes;  
+- Gola: cortar duas vezes;
+
+Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, parte da frente e das costas, pode ser observado a seguir: 
+
+<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
+<img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
+
+### II Lista de matériais tecnológicos presentes na jaqueta
        
-    | Quantidade | Nome | Link para referência |
-    | --- | --- | --- |
-    | 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
-    | 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
-    | 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
-    | 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
-    | N | Jumpers variados | -- |
-    | 1 | Protoboard | -- |
-    | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
-    | X | Peças de X tecido | -- |
+| Quantidade | Nome | Link para referência |
+| --- | --- | --- |
+| 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
+| 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
+| 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
+| 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
+| N | Jumpers variados | -- |
+| 1 | Protoboard | -- |
+| 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
+| X | Peças de X tecido | -- |
         
-        
+#### Conexões 
+| Componente | Pino da placa |
+| --- | --- |
+| LEDs | 4 |
+| Buzzer | 15 |
+| Botão | 0 |
