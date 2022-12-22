@@ -75,11 +75,11 @@ Figura 3 - Costas do protótipo <br/>
   <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" width="300" /><br/>
 </p>
 
-### II Lista de matériais tecnológicos presentes na jaqueta
+### II. Lista de matériais tecnológicos presentes na jaqueta
        
 | Quantidade | Nome | Link para referência |
 | --- | --- | --- |
-| 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
+| 1 | ESP8266 e cabo Micro-USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
 | 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
 | 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
 | 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
@@ -97,7 +97,7 @@ Figura 3 - Costas do protótipo <br/>
 | Botão | 0 |
 
 ## 4. Resultados
-### I Entregáveis previstos
+### I. Entregáveis previstos
 A confecção da peça final foi feita seguindo os mesmo passos iniciais da peça piloto, acrescentando na modelagem as mudanças que analisamos serem necessárias. Deste modo, foram acrescentados 10 cm no comprimento da jaqueta. Também aumentamos um pouco a largura do punho da jaqueta, para ficar um acabamento melhor. Optamos por adicionar uma faixa de tecido na largura das costas por cima para cobrir o zíper.
 
 Para adicionar os dispositivos tecnológicos na jaqueta, passamos a fiação necessária para eles funcionarem na altura do ombro na parte interna. O botão para acioná-los ficará embaixo da lapela do bolso esquerdo, por conta disso, a fiação descerá de modo interno do ombro até essa região, sendo coberto por uma faixa de tecido. Os LEDs serão dispostos de maneira exposta na parte traseira da jaqueta, na parte superior, a 7,5cm de distância da gola. O  bolso, que fica a 7cm das luzes, servirá para armazenar o programador, o GPS e também o buzzer. 
@@ -115,7 +115,7 @@ Figura 5 - Costas da jaqueta com os LEDs posicionados <br/>
 
 Detalhe da localização dos LEDs dispostos separadamente abaixo da gola. A imagem também exibe o zíper coberto por uma lapela para armazenar o micro-controlador e o buzzer. 
 
-### Entregáveis não previstos
+### II. Entregáveis não previstos
 
 A partir do protótipo já exibido, o grupo percebeu alguns pontos que poderiam ser melhorados e modificados. Em relação a modelagem da peça, foi necessário modificar a gola, que a partir da modelagem base ela acabou ficando muito pequena e não foi possível costura-la na jaqueta. Por conta de ser um teste, acrescentamos a quantidade necessária de tecido para ela ficar de modo certo no modelo da peça
 
@@ -124,14 +124,14 @@ Uma outra questão foi o comprimento, que ficou um pouco mais curto do que quer�
 O bolso no verso da jaqueta, que servirá para acomodar os dispositivos eletrônicos, nessa versão teste achamos que chamaria muita atenção, pois nas jaquetas convencionais não costuma ter um bolso nesta região. Então para não chamar, optamos por fazer alguma mudança, como já descrita no item anterior, que priorizasse a discrição dele. 
 
 ### Montagem e Funcionamento do sistema
-A montagem do circuito se da de forma simples, apenas encaixando os componentes na pinagem certa o programa está pronto para rodar. Já o sistema *precisa* de acesso a alguma rede wi-fi(alterado direto no código) para funcionar, pois o programa inteiro fica em stand-by no aguardo que a conexão com a rede seja feita
+Seguindo a pinagem lsitada um pouco acima no relátorio e enviando o [src.ino](https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/src.ino) ao micro-controlador via [Arduino IDE](https://www.arduino.cc/en/software) no ESP8266 o programa já esta pronto para ser utilizado.
 
 <p align="center">
 Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
   <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/montagem.jpg" width="300" /><br/>
 </p>
 
-### Organização e Arquitetura
+### III. Organização e Arquitetura
 O dispositoivo da jaqueta se conecta a internet e a principal usabilidade disso é a conexão com a api [Whatabot](https://whatabot.net/index.html), a qual envia uma mensagem pré-definida é enviada a um número de Whatsapp previamente cadastrado. Para isso é utilizada uma requisição via http.
 
 ## 5. Discussão e Conclusão
