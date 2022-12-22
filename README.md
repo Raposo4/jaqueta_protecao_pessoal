@@ -109,7 +109,7 @@ Figura 4 - Tecido recortado conforme os moldes <br/>
 
 
 <p align="center">
-Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
+Figura 5 - Costas da jaqueta com os LEDs posicionados <br/>
   <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/costas.jpg" width="300" /><br/>
 </p>
 
