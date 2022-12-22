@@ -72,7 +72,7 @@ Figura 2 - Frente do protótipo <br/>
 
 <p align="center">
 Figura 3 - Costas do protótipo <br/>
-  <img src="ttps://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" width="300" /><br/>
+  <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" width="300" /><br/>
 </p>
 
 ### II Lista de matériais tecnológicos presentes na jaqueta
