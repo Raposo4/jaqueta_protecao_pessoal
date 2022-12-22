@@ -86,7 +86,7 @@ Figura 3 - Costas do protótipo <br/>
 | N | Jumpers variados | -- |
 | 1 | Protoboard | -- |
 | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
-| 1 | Peças de 130cm² de Brim Leve | -- |
+| 1 | Peça de 130cm² de Brim Leve | -- |
 | 1 | Zíper de metal de 20 cm | -- |
         
 #### Conexões 
