@@ -19,8 +19,7 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Controlador é um componente eletrônico tecnológico desenvolvido para conectar projetos robóticos à Internet.
 
 ## 2. Objetivos
-
-### I. Objetivos específicos
+- I. Objetivos específicos
     - A jaqueta para defesa pessoal tem como objetivo trazer uma maior segurança para mulheres que frequentam locais perigosos, como ruas escuras, 
       com pouco movimento ou qualquer outro ambiente que faça a mulher se sentir vulnerável a qualquer tipo de violência. 
       
@@ -66,17 +65,16 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
         
 - II Lista de matériais tecnológicos presentes na jaqueta
-
-        
-        | Quantidade | Nome | Link para referência |
-        | --- | --- | --- |
-        | 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
-        | 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
-        | 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
-        | 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
-        | N | Jumpers variados | -- |
-        | 1 | Protoboard | -- |
-        | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
-        | X | Peças de X tecido | -- |
+       
+    | Quantidade | Nome | Link para referência |
+    | --- | --- | --- |
+    | 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
+    | 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
+    | 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
+    | 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
+    | N | Jumpers variados | -- |
+    | 1 | Protoboard | -- |
+    | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
+    | X | Peças de X tecido | -- |
         
         
