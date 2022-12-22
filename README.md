@@ -41,6 +41,15 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
       “Moldes Femininos: noções básicas" da autora Rosa Lúcia de Almeida Silva.  
       <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/sketch.jpg" alt="Sketch" title="Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai." width="400"  height="500" />
       
-      | *Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.* |
+       *Modelagem de jaqueta jeans tradicional tamanho 42 de Marlene Mukai.* 
       
       Assim, primeiramente passamos para um papel kraft - conhecido também como papel pardo - os moldes de cada parte necessária para montar uma jaqueta. Essa etapa foi feita com auxílio de réguas de modelagens que possuem curvatura que se encaixam nos recortes do corpo, como na gola. Vale ressaltar também que esses moldes passados para o papel já são feitos com a margem de costura necessária, no nosso caso foi de 1,5 cm (menos na gola). Em seguida, marcamos cada molde em um tecido, por se tratar de uma peça piloto, usamos o algodão cru. Para a confecção da peça piloto optamos pelo uso de um tecido de brim em uma cor mais neutra. 
+      
+        Um outro ponto importante nessa etapa da modelagem é a organização dos moldes feitos no papel kraft. Então, depois de desenhar nele todas as partes da jaqueta, é de extrema importância especificar nos moldes: 
+- Nomear a parte que ele representa;
+- Especificar se é a parte da frente/dianteira ou se é a parte das costas;
+- Atentar-se a molde que possui tanto parte das costas como da frente em um mesmo molde, como é o caso da manga. 
+- Indicar onde fica a linha das costas ou  a linha da lateral do corpo;
+- Indicar quantas vezes precisar recortar no tecido final. 
+- Os moldes não nomeados da imagem são a parte da frente da jaqueta, que é o primeiro da esquerda, e é necessário cortar duas vezes ele no tecido. O molde do meio é a parte das costas, esse adaptamos ele de modo que ficasse apenas um corte na hora de marcar no tecido e corta-ló. O molde da esquerda é o da manga, e por se tratar de uma jaqueta o punho é aberto e possui fecho de botão, então lembrar de marcar no molde esse detalhe. Também indiciar e cortar duas partes no tecido, já que as mangas de ambos braços são iguais.
+
