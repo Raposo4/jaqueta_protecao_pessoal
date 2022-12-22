@@ -19,7 +19,8 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Controlador é um componente eletrônico tecnológico desenvolvido para conectar projetos robóticos à Internet.
 
 ## 2. Objetivos
-- I. Objetivos específicos
+
+### I. Objetivos específicos
     - A jaqueta para defesa pessoal tem como objetivo trazer uma maior segurança para mulheres que frequentam locais perigosos, como ruas escuras, 
       com pouco movimento ou qualquer outro ambiente que faça a mulher se sentir vulnerável a qualquer tipo de violência. 
       
@@ -53,11 +54,29 @@ eletrônicos numa jaqueta para ajudar na proteção pessoal.
         - Indicar quantas vezes precisar recortar no tecido final. 
         - Os moldes não nomeados da imagem são a parte da frente da jaqueta, que é o primeiro da esquerda, e é necessário cortar duas vezes ele no tecido. O molde do meio é a parte das costas, esse adaptamos ele de modo que ficasse apenas um corte na hora de marcar no tecido e corta-ló. O molde da esquerda é o da manga, e por se tratar de uma jaqueta o punho é aberto e possui fecho de botão, então lembrar de marcar no molde esse detalhe. Também indiciar e cortar duas partes no tecido, já que as mangas de ambos braços são iguais.
 
-    Nos moldes referentes às partes menores da jaqueta, a modelagem usada como referência já especifica qual parte é qual. Assim, só precisamos observar um jaqueta jeans de algum integrante do grupo para entender quantas vezes cada parte precisa ser cortada, com isso no final ficou: 
+        Nos moldes referentes às partes menores da jaqueta, a modelagem usada como referência já especifica qual parte é qual. Assim, só precisamos observar um jaqueta jeans de algum integrante do grupo para entender quantas vezes cada parte precisa ser cortada, com isso no final ficou: 
         - Bolso: cortar duas vezes;   
         - Lapela: cortar quatro vezes;    
         - Punho: cortar  duas vezes (cortado também na dobra do tecido);   
         - Cos: cortar uma vezes;  
-        - Gola: cortar duas vezes.  
+        - Gola: cortar duas vezes;
 
+        Após todos essas etapas, o resultado do protótipo da jaqueta anti-assédio, parte da frente e das costas, pode ser observado a seguir: 
+        <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/unnamed.png" alt="Costas" title="" width="400"  height="500" />
+        <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/ziper.png" alt="Costas" title="" width="400"  height="500" />
+        
+- II Lista de matériais tecnológicos presentes na jaqueta
 
+        
+        | Quantidade | Nome | Link para referência |
+        | --- | --- | --- |
+        | 1 | ESP32 e cabo USB | https://www.baudaeletronica.com.br/placa-doit-esp32-bluetooth-e-wifi.html |
+        | 3 | LEDs de alto brilho brancos 10mm | https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html |
+        | 1 | Botão 12mm a prova dágua | https://www.baudaeletronica.com.br/bot-o-12mm-a-prova-d-agua-sem-trava-vermelho.html |
+        | 1 | Buzzer sem oscilador interno | https://www.baudaeletronica.com.br/buzzer-5v-sem-oscilador-interno.html |
+        | N | Jumpers variados | -- |
+        | 1 | Protoboard | -- |
+        | 1 | Carregador tipo powerbank portátil a pilhas | https://www.americanas.com.br/produto/3858532657?pfm_carac=carregador-universal-pilha |
+        | X | Peças de X tecido | -- |
+        
+        
