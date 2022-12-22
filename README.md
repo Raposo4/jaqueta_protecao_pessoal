@@ -135,10 +135,6 @@ Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
 O dispositoivo da jaqueta se conecta a internet e a principal usabilidade disso é a conexão com a api [Whatabot](https://whatabot.net/index.html), a qual envia uma mensagem pré-definida é enviada a um número de Whatsapp previamente cadastrado. Para isso é utilizada uma requisição via http.
 
 ## 5. Discussão e Conclusão
-### 1. Consequências lógicas dos resultados (resultados deduzidos);
-### 2. Dificuldades que levaram às soluções colaterais
-### 3. Especulações/questionamentos a partir dos resultados (resultados induzidos);
-### 4. Desdobramentos possíveis (próximos passos, possibilidades, spin-offs);
 
 Observando o resultado final da jaqueta anti-assédio, o grupo refletiu sobre seus resultados e pensou em algumas possibilidades para potencializar sua performance. 
 
