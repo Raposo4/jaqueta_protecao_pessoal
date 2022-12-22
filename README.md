@@ -125,11 +125,32 @@ O bolso no verso da jaqueta, que servirá para acomodar os dispositivos eletrôn
 ### Montagem e Funcionamento do sistema
 A montagem do circuito se da de forma simples, apenas encaixando os componentes na pinagem certa o programa está pronto para rodar. Já o sistema *precisa* de acesso a alguma rede wi-fi(alterado direto no código) para funcionar, pois o programa inteiro fica em stand-by no aguardo que a conexão com a rede seja feita
 
-### Organização e Arquitetura
-
 <p align="center">
 Figura 5 - Costas da jaqueta com os LEDs posicioanados <br/>
   <img src="https://github.com/Raposo4/jaqueta_protecao_pessoal/blob/main/imgs/montagem.jpg" width="300" /><br/>
 </p>
 
+### Organização e Arquitetura
+O dispositoivo da jaqueta se conecta a internet e a principal usabilidade disso é a conexão com a api [Whatabot](https://whatabot.net/index.html), a qual envia uma mensagem pré-definida é enviada a um número de Whatsapp previamente cadastrado. Para isso é utilizada uma requisição via http.
 
+## Discussão e Conclusão
+### 1. Consequências lógicas dos resultados (resultados deduzidos);
+### 2. Dificuldades que levaram às soluções colaterais
+### 3. Especulações/questionamentos a partir dos resultados (resultados induzidos);
+### 4. Desdobramentos possíveis (próximos passos, possibilidades, spin-offs);
+
+Observando o resultado final da jaqueta anti-assédio, o grupo refletiu sobre seus resultados e pensou em algumas possibilidades para potencializar sua performance. 
+
+Um ideia que surgiu é a adição de um dispositivo que liberasse algum spray para afetar e desestabilizar o agressor, caso a situação se agravasse para algo físico, um exemplo seria o spray de gengibre que tem seu uso legal para civis e causa ardência e irritabilidade nos olhos, prejudicando a visão.
+Uma outra ideia, mas que teria que ser muito bem desenvolvida por ser mais complexa é a possibilidade de um dispositivo que cause choque. Mas por ter uma legislação sobre o seu porte, como mostra o site da câmara de deputados: “(...) a aquisição e o porte de spray de pimenta e de armas de eletrochoque só poderá ocorrer por maiores de 18 anos, mediante apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça federal, estadual e militar e comprovantes de residência”
+
+Houve também a possibilidade de implementação de um GPS ao sistema, mas não foi posssível adiciona-lo ao MVP.
+
+Também pensamos na possibilidade de trazer  conceito central da jaqueta anti-assédio para outras peças de roupa, com o intuito de ampliar o nosso público, já que qualquer pessoa pode ser vítima de assédio. E também expandir nosso conceito, para a pessoa ter mais opções do uso de uma roupa que gera proteção, facilitando na inclusão dessas peças em seu estilo. 
+
+## Referências
+HAJE, Lara. Comissão aprova regras para venda e uso do spray de pimenta e armas de eletrochoque para proteção pessoal. Agência Câmara de Notícias, 2021. Disponível em: https://www.camara.leg.br/noticias/806727-comissao-aprova-regras-para-venda-e-uso-do-spray-de-pimenta-e-armas-de-eletrochoque-para-protecao-pessoal/#:~:text=De%20acordo%20com%20o%20substitutivo,militar%20e%20comprovantes%20de%20resid%C3%AAncia
+
+Whatabot, 2022. Disponível em: https://whatabot.net/index.html#otherdetails
+
+HOW TO PLAY THE MUSICAL NOTES ON THE ARDUINO. Disponível em: https://samueladesola.medium.com/how-to-play-the-musical-notes-on-the-arduino-1e9505d00c60
